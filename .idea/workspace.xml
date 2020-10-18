@@ -34,6 +34,7 @@
       <updated>1602906810991</updated>
       <workItem from="1602906813922" duration="364000" />
       <workItem from="1602907195920" duration="486000" />
+      <workItem from="1602932448501" duration="149000" />
     </task>
     <task id="LOCAL-00001" summary="基本布局已经完成,写至验证码部分">
       <created>1602906886492</created>
@@ -42,7 +43,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602906886492</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="基本布局已经完成,写至验证码部分">
+      <created>1602932480285</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602932480285</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -53,13 +61,13 @@
     <option name="LAST_COMMIT_MESSAGE" value="基本布局已经完成,写至验证码部分" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="572" y="119" key="CommitChangelistDialog2" timestamp="1602906885434">
+    <state x="572" y="119" key="CommitChangelistDialog2" timestamp="1602932478859">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="572" y="119" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1602906885434" />
-    <state x="552" y="256" key="Vcs.Push.Dialog.v2" timestamp="1602907199945">
+    <state x="572" y="119" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1602932478859" />
+    <state x="552" y="256" key="Vcs.Push.Dialog.v2" timestamp="1602932487354">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602907199945" />
+    <state x="552" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602932487354" />
   </component>
 </project>
