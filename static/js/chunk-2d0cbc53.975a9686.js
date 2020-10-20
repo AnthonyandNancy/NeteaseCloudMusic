@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0cbc53"],{"4aa1":function(n,e,c){"use strict";c.r(e);var a=function(){var n=this,e=n.$createElement,c=n._self._c||e;return c("div",[n._v("这是视频组件")])},t=[],u={name:"Index"},d=u,r=c("2877"),s=Object(r["a"])(d,a,t,!1,null,"07dadc14",null);e["default"]=s.exports}}]);
