@@ -10,6 +10,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1izOAXeLkksOds2aZFFMccYz27t" />
@@ -37,6 +38,7 @@
       <workItem from="1602932448501" duration="149000" />
       <workItem from="1603000240180" duration="306000" />
       <workItem from="1603015521979" duration="13000" />
+      <workItem from="1603103505597" duration="257000" />
     </task>
     <task id="LOCAL-00001" summary="基本布局已经完成,写至验证码部分">
       <created>1602906886492</created>
@@ -66,7 +68,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603000319611</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="&#10;修复昨天2020-10-17 18:56 的bug,改为localStrog和Vuex一起使用">
+      <created>1603103515768</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1603103515768</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -78,13 +87,21 @@
     <option name="LAST_COMMIT_MESSAGE" value="&#10;修复昨天2020-10-17 18:56 的bug,改为localStrog和Vuex一起使用" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="572" y="119" key="CommitChangelistDialog2" timestamp="1603011944633">
+    <state x="572" y="119" key="CommitChangelistDialog2" timestamp="1603103514494">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="572" y="119" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1603011944633" />
-    <state x="552" y="256" key="Vcs.Push.Dialog.v2" timestamp="1603011951069">
+    <state x="572" y="119" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1603103514494" />
+    <state x="184" y="86" key="MergeDialog" timestamp="1603103606383">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603011951069" />
+    <state x="184" y="86" key="MergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603103606383" />
+    <state x="669" y="236" key="MultipleFileMergeDialog" timestamp="1603103609092">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="669" y="236" key="MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603103609092" />
+    <state x="552" y="256" key="Vcs.Push.Dialog.v2" timestamp="1603103636240">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603103636240" />
   </component>
 </project>
