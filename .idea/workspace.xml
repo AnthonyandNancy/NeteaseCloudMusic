@@ -75,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603103515768</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="完成MV界面和播放,差视频tabs">
+      <created>1603265238819</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1603265238819</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -85,13 +92,14 @@
     <MESSAGE value="基本布局已经完成,写至验证码部分" />
     <MESSAGE value="&#10;修复昨天2020-10-17 18:56 的bug,改为localStrog和Vuex一起使用" />
     <MESSAGE value="Merge remote-tracking branch 'origin/main' into main&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;index.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/main' into main&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;index.html" />
+    <MESSAGE value="完成MV界面和播放,差视频tabs" />
+    <option name="LAST_COMMIT_MESSAGE" value="完成MV界面和播放,差视频tabs" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="572" y="119" key="CommitChangelistDialog2" timestamp="1603264941053">
+    <state x="572" y="119" key="CommitChangelistDialog2" timestamp="1603265460560">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="572" y="119" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1603264941053" />
+    <state x="572" y="119" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1603265460560" />
     <state x="184" y="86" key="MergeDialog" timestamp="1603103606383">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -100,10 +108,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="669" y="236" key="MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603103609092" />
-    <state x="552" y="256" key="Vcs.Push.Dialog.v2" timestamp="1603264892986">
+    <state x="552" y="256" key="Vcs.Push.Dialog.v2" timestamp="1603265240232">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603264892986" />
+    <state x="552" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603265240232" />
     <state x="614" y="322" key="git4idea.merge.GitPullDialog" timestamp="1603265150403">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
