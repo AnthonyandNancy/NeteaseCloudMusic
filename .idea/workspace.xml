@@ -9,6 +9,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Pages" />
+  </component>
   <component name="Git.Settings">
     <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -89,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603265476979</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="完成MV界面和播放,差视频tabs">
+      <created>1603266860240</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1603266860240</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,10 +113,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="完成MV界面和播放,差视频tabs" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="572" y="119" key="CommitChangelistDialog2" timestamp="1603265475392">
+    <state x="572" y="119" key="CommitChangelistDialog2" timestamp="1603266857632">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="572" y="119" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1603265475392" />
+    <state x="572" y="119" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1603266857632" />
     <state x="184" y="86" key="MergeDialog" timestamp="1603103606383">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -115,10 +125,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="669" y="236" key="MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603103609092" />
-    <state x="552" y="256" key="Vcs.Push.Dialog.v2" timestamp="1603265478461">
+    <state x="552" y="256" key="Vcs.Push.Dialog.v2" timestamp="1603266861564">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603265478461" />
+    <state x="552" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603266861564" />
     <state x="614" y="322" key="git4idea.merge.GitPullDialog" timestamp="1603265150403">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
