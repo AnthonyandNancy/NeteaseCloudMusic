@@ -38,6 +38,7 @@
       <workItem from="1603000240180" duration="306000" />
       <workItem from="1603015521979" duration="13000" />
       <workItem from="1603027580493" duration="100000" />
+      <workItem from="1603548364233" duration="249000" />
     </task>
     <task id="LOCAL-00001" summary="基本布局已经完成,写至验证码部分">
       <created>1602906886492</created>
@@ -74,7 +75,21 @@
       <option name="project" value="LOCAL" />
       <updated>1603027598158</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="歌词同步">
+      <created>1603548485453</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1603548485453</updated>
+    </task>
+    <task id="LOCAL-00007" summary="歌词同步">
+      <created>1603548597373</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1603548597373</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -83,17 +98,18 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="基本布局已经完成,写至验证码部分" />
     <MESSAGE value="&#10;修复昨天2020-10-17 18:56 的bug,改为localStrog和Vuex一起使用" />
-    <option name="LAST_COMMIT_MESSAGE" value="&#10;修复昨天2020-10-17 18:56 的bug,改为localStrog和Vuex一起使用" />
+    <MESSAGE value="歌词同步" />
+    <option name="LAST_COMMIT_MESSAGE" value="歌词同步" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="572" y="119" key="CommitChangelistDialog2" timestamp="1603027597428">
+    <state x="572" y="119" key="CommitChangelistDialog2" timestamp="1603548596773">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="572" y="119" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1603027597428" />
-    <state x="552" y="256" key="Vcs.Push.Dialog.v2" timestamp="1603027599698">
+    <state x="572" y="119" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1603548596773" />
+    <state x="552" y="256" key="Vcs.Push.Dialog.v2" timestamp="1603548598353">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603027599698" />
+    <state x="552" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603548598353" />
     <state x="614" y="322" key="git4idea.merge.GitPullDialog" timestamp="1603548382643">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
