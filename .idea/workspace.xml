@@ -163,14 +163,13 @@
     <MESSAGE value="音量优化" />
     <MESSAGE value="循环播放完成" />
     <MESSAGE value="歌单中的全部播放按钮完成" />
-    <MESSAGE value="歌词同步,同步解决,offset上下移动尚未" />
-    <option name="LAST_COMMIT_MESSAGE" value="歌词同步,同步解决,offset上下移动尚未" />
+    <option name="LAST_COMMIT_MESSAGE" value="歌单中的全部播放按钮完成" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="572" y="119" key="CommitChangelistDialog2" timestamp="1603707038692">
+    <state x="572" y="119" key="CommitChangelistDialog2" timestamp="1603449258602">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="572" y="119" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1603707038692" />
+    <state x="572" y="119" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1603449258602" />
     <state x="184" y="86" key="MergeDialog" timestamp="1603103606383">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -178,11 +177,11 @@
     <state x="669" y="236" key="MultipleFileMergeDialog" timestamp="1603103609092">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="669" y="236" key="MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603103609092" />
-    <state x="552" y="256" key="Vcs.Push.Dialog.v2" timestamp="1603535958669">
+    <state x="572" y="119" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1603548596773" />
+    <state x="552" y="256" key="Vcs.Push.Dialog.v2" timestamp="1603548598353">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603535958669" />
+    <state x="552" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603449262529" />
     <state x="614" y="322" key="git4idea.merge.GitPullDialog" timestamp="1603265150403">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
