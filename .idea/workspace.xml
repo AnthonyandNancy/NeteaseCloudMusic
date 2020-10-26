@@ -9,7 +9,11 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Pages" />
+  </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1izOAXeLkksOds2aZFFMccYz27t" />
@@ -38,7 +42,13 @@
       <workItem from="1603000240180" duration="306000" />
       <workItem from="1603015521979" duration="13000" />
       <workItem from="1603027580493" duration="100000" />
-      <workItem from="1603548364233" duration="249000" />
+      <workItem from="1603431147295" duration="70000" />
+      <workItem from="1603436122469" duration="61000" />
+      <workItem from="1603436524047" duration="13000" />
+      <workItem from="1603446634228" duration="241000" />
+      <workItem from="1603447194393" duration="55000" />
+      <workItem from="1603449225469" duration="70000" />
+      <workItem from="1603535906547" duration="215000" />
     </task>
     <task id="LOCAL-00001" summary="基本布局已经完成,写至验证码部分">
       <created>1602906886492</created>
@@ -69,27 +79,76 @@
       <updated>1603000319611</updated>
     </task>
     <task id="LOCAL-00005" summary="&#10;修复昨天2020-10-17 18:56 的bug,改为localStrog和Vuex一起使用">
-      <created>1603027598158</created>
+      <created>1603103515768</created>
       <option name="number" value="00005" />
       <option name="presentableId" value="LOCAL-00005" />
       <option name="project" value="LOCAL" />
-      <updated>1603027598158</updated>
+      <updated>1603103515768</updated>
     </task>
-    <task id="LOCAL-00006" summary="歌词同步">
-      <created>1603548485453</created>
+    <task id="LOCAL-00006" summary="完成MV界面和播放,差视频tabs">
+      <created>1603265238819</created>
       <option name="number" value="00006" />
       <option name="presentableId" value="LOCAL-00006" />
       <option name="project" value="LOCAL" />
-      <updated>1603548485453</updated>
+      <updated>1603265238819</updated>
     </task>
-    <task id="LOCAL-00007" summary="歌词同步">
-      <created>1603548597373</created>
+    <task id="LOCAL-00007" summary="完成MV界面和播放,差视频tabs">
+      <created>1603265476979</created>
       <option name="number" value="00007" />
       <option name="presentableId" value="LOCAL-00007" />
       <option name="project" value="LOCAL" />
-      <updated>1603548597373</updated>
+      <updated>1603265476979</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="完成MV界面和播放,差视频tabs">
+      <created>1603266860240</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1603266860240</updated>
+    </task>
+    <task id="LOCAL-00009" summary="完成歌单">
+      <created>1603431186770</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1603431186770</updated>
+    </task>
+    <task id="LOCAL-00010" summary="音量优化">
+      <created>1603436149046</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1603436149046</updated>
+    </task>
+    <task id="LOCAL-00011" summary="循环播放完成">
+      <created>1603446654068</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1603446654068</updated>
+    </task>
+    <task id="LOCAL-00012" summary="歌单中的全部播放按钮完成">
+      <created>1603447227112</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1603447227112</updated>
+    </task>
+    <task id="LOCAL-00013" summary="歌单中的全部播放按钮完成">
+      <created>1603449260056</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1603449260056</updated>
+    </task>
+    <task id="LOCAL-00014" summary="歌词同步,同步解决,offset上下移动尚未">
+      <created>1603535954221</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1603535954221</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,21 +157,35 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="基本布局已经完成,写至验证码部分" />
     <MESSAGE value="&#10;修复昨天2020-10-17 18:56 的bug,改为localStrog和Vuex一起使用" />
-    <MESSAGE value="歌词同步" />
-    <option name="LAST_COMMIT_MESSAGE" value="歌词同步" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main' into main&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;index.html" />
+    <MESSAGE value="完成MV界面和播放,差视频tabs" />
+    <MESSAGE value="完成歌单" />
+    <MESSAGE value="音量优化" />
+    <MESSAGE value="循环播放完成" />
+    <MESSAGE value="歌单中的全部播放按钮完成" />
+    <MESSAGE value="歌词同步,同步解决,offset上下移动尚未" />
+    <option name="LAST_COMMIT_MESSAGE" value="歌词同步,同步解决,offset上下移动尚未" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="572" y="119" key="CommitChangelistDialog2" timestamp="1603548596773">
+    <state x="572" y="119" key="CommitChangelistDialog2" timestamp="1603707139356">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="572" y="119" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1603548596773" />
-    <state x="552" y="256" key="Vcs.Push.Dialog.v2" timestamp="1603548598353">
+    <state x="572" y="119" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1603707139356" />
+    <state x="184" y="86" key="MergeDialog" timestamp="1603707131483">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603548598353" />
-    <state x="614" y="322" key="git4idea.merge.GitPullDialog" timestamp="1603548382643">
+    <state x="184" y="86" key="MergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603707131483" />
+    <state x="669" y="236" key="MultipleFileMergeDialog" timestamp="1603707131491">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="614" y="322" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603548382643" />
+    <state x="669" y="236" key="MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603707131491" />
+    <state x="552" y="256" key="Vcs.Push.Dialog.v2" timestamp="1603707143482">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603707143482" />
+    <state x="614" y="322" key="git4idea.merge.GitPullDialog" timestamp="1603265150403">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="614" y="322" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603265150403" />
   </component>
 </project>
