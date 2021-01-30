@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b792078a-d1c1-4254-a3a0-f2aed7ecd5c0" name="Default Changelist" comment="">
+    <list default="true" id="b792078a-d1c1-4254-a3a0-f2aed7ecd5c0" name="Default Changelist" comment="主页面个性推荐采用flex布局,使布局对齐">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +49,8 @@
       <workItem from="1603447194393" duration="55000" />
       <workItem from="1603449225469" duration="70000" />
       <workItem from="1603535906547" duration="215000" />
+      <workItem from="1603707010010" duration="207000" />
+      <workItem from="1604285467801" duration="123000" />
     </task>
     <task id="LOCAL-00001" summary="基本布局已经完成,写至验证码部分">
       <created>1602906886492</created>
@@ -148,7 +150,35 @@
       <option name="project" value="LOCAL" />
       <updated>1603535954221</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="歌词同步,同步解决,offset解决,评论解决">
+      <created>1603707041915</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1603707041915</updated>
+    </task>
+    <task id="LOCAL-00016" summary="歌词同步,同步解决,offset解决,评论解决">
+      <created>1603707141745</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1603707141745</updated>
+    </task>
+    <task id="LOCAL-00017" summary="歌词同步,同步解决,offset解决,评论解决">
+      <created>1603707206775</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1603707206775</updated>
+    </task>
+    <task id="LOCAL-00018" summary="主页面个性推荐采用flex布局,使布局对齐">
+      <created>1604285507711</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1604285507711</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -164,28 +194,34 @@
     <MESSAGE value="循环播放完成" />
     <MESSAGE value="歌单中的全部播放按钮完成" />
     <MESSAGE value="歌词同步,同步解决,offset上下移动尚未" />
-    <option name="LAST_COMMIT_MESSAGE" value="歌词同步,同步解决,offset上下移动尚未" />
+    <MESSAGE value="歌词同步,同步解决,offset解决,评论解决" />
+    <MESSAGE value="主页面个性推荐采用flex布局,使布局对齐" />
+    <option name="LAST_COMMIT_MESSAGE" value="主页面个性推荐采用flex布局,使布局对齐" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="572" y="119" key="CommitChangelistDialog2" timestamp="1603707139356">
+    <state x="572" y="119" key="CommitChangelistDialog2" timestamp="1604285547533">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="572" y="119" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1603707139356" />
-    <state x="184" y="86" key="MergeDialog" timestamp="1603707131483">
+    <state x="572" y="119" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1604285547533" />
+    <state x="184" y="86" key="MergeDialog" timestamp="1604285530961">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="184" y="86" key="MergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603707131483" />
-    <state x="669" y="236" key="MultipleFileMergeDialog" timestamp="1603707131491">
+    <state x="184" y="86" key="MergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604285530961" />
+    <state x="669" y="236" key="MultipleFileMergeDialog" timestamp="1604285530969">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="669" y="236" key="MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603707131491" />
-    <state x="552" y="256" key="Vcs.Push.Dialog.v2" timestamp="1603707143482">
+    <state x="669" y="236" key="MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604285530969" />
+    <state x="552" y="256" key="Vcs.Push.Dialog.v2" timestamp="1604285566680">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603707143482" />
-    <state x="614" y="322" key="git4idea.merge.GitPullDialog" timestamp="1603265150403">
+    <state x="552" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1604285566680" />
+    <state x="614" y="322" key="git4idea.merge.GitPullDialog" timestamp="1604285551083">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="614" y="322" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603265150403" />
+    <state x="614" y="322" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604285551083" />
+    <state x="713" y="398" key="git4idea.rebase.GitRebaseDialog" timestamp="1604285560631">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="713" y="398" key="git4idea.rebase.GitRebaseDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604285560631" />
   </component>
 </project>
